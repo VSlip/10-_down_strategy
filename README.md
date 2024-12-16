@@ -41,6 +41,12 @@ To run the backtest, follow these steps:
 2. Configure trade parameters such as the percentage drop threshold and initial account balance.
 3. Execute the script and review the generated reports, which include detailed trade logs and performance summaries.
 
+## Results
+
+The following graph shows how the equity (account balance) evolved over time as trades were executed. The x-axis represents the number of trades, and the y-axis shows the account balance:
+
+![Equity Graph](image.png)
+
 ## Disclaimer
 
 This project is for educational and research purposes only. The performance of the strategy in past data does not guarantee success in live markets. Always exercise caution and perform thorough due diligence before applying any strategy to live trading.
