@@ -45,7 +45,7 @@ To run the backtest, follow these steps:
 
 The following graph shows how the equity (account balance) evolved over time as trades were executed. The x-axis represents the number of trades, and the y-axis shows the account balance:
 
-![Equity Graph](image.png)
+![Equity Graph](Screenshot_2024-12-16_120055.png)
 
 ## Disclaimer
 
